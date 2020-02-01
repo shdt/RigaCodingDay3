@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_methods", "Day3_methods\Day3_methods.csproj", "{78868962-CACE-40F6-B0C5-5AB0C94039BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91B9EC14-C8E3-4F6D-B249-E538EE5BB8D1}
+	EndGlobalSection
+EndGlobal
