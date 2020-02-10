@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_methods", "Day3_methods\Day3_methods.csproj", "{78868962-CACE-40F6-B0C5-5AB0C94039BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day3_methods", "Day3_methods\Day3_methods.csproj", "{78868962-CACE-40F6-B0C5-5AB0C94039BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWorkWeek1", "HomeWorkWeek1\HomeWorkWeek1.csproj", "{66BEC3CE-BE9C-44FF-A742-42BCA637DCDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78868962-CACE-40F6-B0C5-5AB0C94039BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BEC3CE-BE9C-44FF-A742-42BCA637DCDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BEC3CE-BE9C-44FF-A742-42BCA637DCDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BEC3CE-BE9C-44FF-A742-42BCA637DCDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BEC3CE-BE9C-44FF-A742-42BCA637DCDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
